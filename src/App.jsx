@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <video src="./public/IGC.mp4"
+      <video src="/public/IGC.mp4"
         type="video/mp4"
         width="800"
         height="450"
@@ -9,7 +9,7 @@ function App() {
         autoPlay
         muted
         loop
-        poster="./public/IGC.mp4/ik-thumbnail.jpg?tr=so-18">
+        poster="/public/IGC.mp4/ik-thumbnail.jpg?tr=so-18">
 
         <track
           kind="subtitles"
