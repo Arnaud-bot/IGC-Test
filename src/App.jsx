@@ -75,7 +75,7 @@ function App() {
         <option value="fr">🇫🇷 Français</option>
         <option value="ar">🇦🇪 العربية</option>
         <option value="es">🇪🇸 Español</option>
-        <option value="ru">🇷🇺 Русский</option>
+        <option value="ru">🇮🇹 Italian</option>
       </select>
 
       <video
